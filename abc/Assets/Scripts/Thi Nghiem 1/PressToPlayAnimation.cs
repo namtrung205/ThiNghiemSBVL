@@ -9,6 +9,7 @@ public class PressToPlayAnimation : MonoBehaviour {
     public GameObject firstCT38;
     public Image myImageToFill;
     public Image myImageToShow;
+    public Image myImageToShowClone;
 
     public GameObject ngamDuoi;
     private Vector3 p1_Ngam;
@@ -84,6 +85,7 @@ public class PressToPlayAnimation : MonoBehaviour {
                 CT38Duoi.gameObject.SetActive(true);
                 CT38Tren.gameObject.SetActive(true);
                 myImageToShow.gameObject.SetActive(true);
+                myImageToShowClone.gameObject.SetActive(true);
                 myCT38Animation.SetActive(false);
             }
             ngamDuoi.transform.position = Vector3.Lerp(p1_Ngam, p2_Ngam, Perc);
@@ -159,10 +161,12 @@ public class PressToPlayAnimation : MonoBehaviour {
 				print ("Full Chart: "  + myDicChart[myListKey[myChartIndex]].name);
 
 				myImageToShow.gameObject.SetActive (false);
+                myImageToShowClone.gameObject.SetActive (false);
 
 
 				myImageToFill.overrideSprite = myListKey[myChartIndex];
 				myImageToShow.overrideSprite = myDicChart[myListKey[myChartIndex]];
+                myImageToShowClone.overrideSprite = myDicChart[myListKey[myChartIndex]];
 
 
                 print("justClicked");

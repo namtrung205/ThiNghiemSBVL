@@ -3,8 +3,16 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using System.IO;
+using SFB;
 
 public class SaveInputValueToTextTN1 : MonoBehaviour {
+
+    public int resWidth = 2550;
+    public int resHeight = 3300;
+    public Camera screenShotCam;
+
+    public GameObject originReport;
+    public GameObject cloneReport;
 
 	public string nameOutPutFile = @"Templates\OutPut_TN1.txt";
 
@@ -36,10 +44,10 @@ public class SaveInputValueToTextTN1 : MonoBehaviour {
     //	public InputField TN1_purpose;
 
 
-
     public Text timer;
 
     public Image sourceImage;
+    public Image desImage;
 
     //Canbe Check if begin TN1
     public GameObject warningWindow;
@@ -96,12 +104,17 @@ public class SaveInputValueToTextTN1 : MonoBehaviour {
 
 				if (gameObj.name == myNameObject) {
 
-					if (gameObj.text == "" || gameObj.text == null) {
-						myDicOut.Add (gameObj.name, "{" + gameObj.name + "}");
-					} else {
-						myDicOut.Add (gameObj.name, gameObj.text);
-					}
-
+                    if (!myDicOut.ContainsKey(gameObj.name))
+                    {
+                        if (gameObj.text == "" || gameObj.text == null)
+                        {
+                            myDicOut.Add(gameObj.name, "{" + gameObj.name + "}");
+                        }
+                        else
+                        {
+                            myDicOut.Add(gameObj.name, gameObj.text);
+                        }
+                    }
 				}
 			}
 
@@ -123,11 +136,13 @@ public class SaveInputValueToTextTN1 : MonoBehaviour {
 			}
 
 		}
+        string pathImage = "";
         if (sourceImage != null)
         {
             if (sourceImage.overrideSprite!=null)
             {
                 print(sourceImage.overrideSprite.name);
+                pathImage = @"Templates\" + sourceImage.overrideSprite.name + ".png";
             }
             else
             {
@@ -141,7 +156,6 @@ public class SaveInputValueToTextTN1 : MonoBehaviour {
 
 
 //		string pathImage = Path.Combine (currentFolder, "Templates/"+sourceImage.sprite.name+".png");
-		string pathImage = @"Templates\"+sourceImage.overrideSprite.name+".png";
 
 		print (pathImage);
         //ExportFiles
@@ -163,15 +177,100 @@ public class SaveInputValueToTextTN1 : MonoBehaviour {
         {
             exportPDFWindow.gameObject.SetActive(true);
             //will open from the applications dataPath directory
-            System.Diagnostics.Process.Start("ModifyPdf.exe",
-                txtFile + " " + templateFile + " " + tenSinhVien + " " + pathImage);
+            //System.Diagnostics.Process.Start("ModifyPdf.exe",
+            //    txtFile + " " + templateFile + " " + tenSinhVien + " " + pathImage);
+
+            //screenShoot and save
+            if (cloneReport != null)
+            {
+                foreach (Transform child in cloneReport.transform)
+                {
+                    InputField tempInputField = child.GetComponent<InputField>();
+
+                    if (tempInputField != null)
+                    {
+                        string nameOfField = tempInputField.name;
+                        if (originReport != null)
+                        {
+                            foreach (Transform childOrigin in originReport.transform)
+                            {
+                                InputField tempInputFieldOrigin = childOrigin.GetComponent<InputField>();
+                                if (tempInputFieldOrigin != null)
+                                {
+                                    if (tempInputFieldOrigin.name == nameOfField)
+                                    {
+                                        tempInputField.text = tempInputFieldOrigin.text;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+
+                if (sourceImage != null)
+                {
+                    if (sourceImage.overrideSprite != null)
+                    {
+                        if (desImage != null)
+                        {
+                            desImage.overrideSprite = sourceImage.overrideSprite;
+                        }
+                    }
+                }
+
+                screenShotCam.gameObject.SetActive(true);
+
+                RenderTexture rt = new RenderTexture(resWidth, resHeight, 24);
+
+                screenShotCam.targetTexture = rt;
+                Texture2D screenShot = new Texture2D(resWidth, resHeight, TextureFormat.RGB24, false);
+                screenShotCam.Render();
+                RenderTexture.active = rt;
+                screenShot.ReadPixels(new Rect(0, 0, resWidth, resHeight), 0, 0);
+                screenShotCam.targetTexture = null;
+                RenderTexture.active = null;
+                Destroy(rt);
+                byte[] bytes = screenShot.EncodeToPNG();
+                string filename = ScreenShotName(resWidth, resHeight);
+
+                // Save file
+
+                var pathSave = StandaloneFileBrowser.SaveFilePanel("Save File", "", "", "png");
+                try
+                {
+                    System.IO.File.WriteAllBytes(pathSave, bytes);
+                    Debug.Log(string.Format("Took screenshot to: {0}", pathSave));
+                    screenShotCam.gameObject.SetActive(false);
+                }
+                catch (System.Exception)
+                {
+
+
+                }
+                catch
+                {
+
+                }
+            }
+
         }
         else
         {
             warningWindow.gameObject.SetActive(true);
         }
 
-	}
+
+    }
+
+
+    public static string ScreenShotName(int width, int height)
+    {
+        return string.Format("{0}/screenshots/screen_{1}x{2}_{3}.png",
+                             Application.dataPath,
+                             width, height,
+                             System.DateTime.Now.ToString("yyyy-MM-dd_HH-mm-ss"));
+    }
+
 
     public bool CheckTolerance(InputField inputField, float correctValue, float tolerance, bool dontCheckValue = false)
     {
