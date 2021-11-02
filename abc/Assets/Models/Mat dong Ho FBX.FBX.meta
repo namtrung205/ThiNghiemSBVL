@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: c1d43f9dc90b17f42be6d269654b80f7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box01
+    100002: Box02
+    100004: Box03
+    100006: Box04
+    100008: Box05
+    100010: Box06
+    100012: Box07
+    100014: Box08
+    100016: Box09
+    100018: Box10
+    100020: Kim Dai
+    100022: Kim Ngan
+    100024: Layer:Line
+    100026: Layer:paper
+    100028: //RootNode
+    100030: Text01
+    100032: Text02
+    100034: Text03
+    100036: Text04
+    100038: Text05
+    100040: Text06
+    100042: Text07
+    100044: Text08
+    100046: Text09
+    100048: Text10
+    100050: Text11
+    100052: Text12
+    100054: Text13
+    100056: Text14
+    100058: Text15
+    100060: Text16
+    100062: Text17
+    100064: Text18
+    100066: Text19
+    100068: Text20
+    100070: Text21
+    100072: Text22
+    100074: Text23
+    100076: Text24
+    100078: Text29
+    100080: Text31
+    100082: Text33
+    100084: Text34
+    100086: Text35
+    100088: Text36
+    100090: Text37
+    400000: Box01
+    400002: Box02
+    400004: Box03
+    400006: Box04
+    400008: Box05
+    400010: Box06
+    400012: Box07
+    400014: Box08
+    400016: Box09
+    400018: Box10
+    400020: Kim Dai
+    400022: Kim Ngan
+    400024: Layer:Line
+    400026: Layer:paper
+    400028: //RootNode
+    400030: Text01
+    400032: Text02
+    400034: Text03
+    400036: Text04
+    400038: Text05
+    400040: Text06
+    400042: Text07
+    400044: Text08
+    400046: Text09
+    400048: Text10
+    400050: Text11
+    400052: Text12
+    400054: Text13
+    400056: Text14
+    400058: Text15
+    400060: Text16
+    400062: Text17
+    400064: Text18
+    400066: Text19
+    400068: Text20
+    400070: Text21
+    400072: Text22
+    400074: Text23
+    400076: Text24
+    400078: Text29
+    400080: Text31
+    400082: Text33
+    400084: Text34
+    400086: Text35
+    400088: Text36
+    400090: Text37
+    2100000: 07 - Default
+    2100002: 08 - Default
+    2100004: 01 - Default
+    2100006: No Name
+    2100008: cvbvcb
+    2300000: Box01
+    2300002: Box02
+    2300004: Box03
+    2300006: Box04
+    2300008: Box05
+    2300010: Box06
+    2300012: Box07
+    2300014: Box08
+    2300016: Box09
+    2300018: Box10
+    2300020: Kim Dai
+    2300022: Kim Ngan
+    2300024: Layer:Line
+    2300026: Layer:paper
+    2300028: Text01
+    2300030: Text02
+    2300032: Text03
+    2300034: Text04
+    2300036: Text05
+    2300038: Text06
+    2300040: Text07
+    2300042: Text08
+    2300044: Text09
+    2300046: Text10
+    2300048: Text11
+    2300050: Text12
+    2300052: Text13
+    2300054: Text14
+    2300056: Text15
+    2300058: Text16
+    2300060: Text17
+    2300062: Text18
+    2300064: Text19
+    2300066: Text20
+    2300068: Text21
+    2300070: Text22
+    2300072: Text23
+    2300074: Text24
+    2300076: Text29
+    2300078: Text31
+    2300080: Text33
+    2300082: Text34
+    2300084: Text35
+    2300086: Text36
+    2300088: Text37
+    3300000: Box01
+    3300002: Box02
+    3300004: Box03
+    3300006: Box04
+    3300008: Box05
+    3300010: Box06
+    3300012: Box07
+    3300014: Box08
+    3300016: Box09
+    3300018: Box10
+    3300020: Kim Dai
+    3300022: Kim Ngan
+    3300024: Layer:Line
+    3300026: Layer:paper
+    3300028: Text01
+    3300030: Text02
+    3300032: Text03
+    3300034: Text04
+    3300036: Text05
+    3300038: Text06
+    3300040: Text07
+    3300042: Text08
+    3300044: Text09
+    3300046: Text10
+    3300048: Text11
+    3300050: Text12
+    3300052: Text13
+    3300054: Text14
+    3300056: Text15
+    3300058: Text16
+    3300060: Text17
+    3300062: Text18
+    3300064: Text19
+    3300066: Text20
+    3300068: Text21
+    3300070: Text22
+    3300072: Text23
+    3300074: Text24
+    3300076: Text29
+    3300078: Text31
+    3300080: Text33
+    3300082: Text34
+    3300084: Text35
+    3300086: Text36
+    3300088: Text37
+    4300000: Kim Dai
+    4300002: Layer:Line
+    4300004: Layer:paper
+    4300006: Text01
+    4300008: Text02
+    4300010: Text03
+    4300012: Text04
+    4300014: Text05
+    4300016: Text06
+    4300018: Text07
+    4300020: Text08
+    4300022: Text09
+    4300024: Text10
+    4300026: Text11
+    4300028: Text12
+    4300030: Text13
+    4300032: Kim Ngan
+    4300034: Text14
+    4300036: Text15
+    4300038: Text16
+    4300040: Text17
+    4300042: Text18
+    4300044: Text19
+    4300046: Text20
+    4300048: Text21
+    4300050: Text22
+    4300052: Text23
+    4300054: Text24
+    4300056: Box01
+    4300058: Box02
+    4300060: Box03
+    4300062: Box04
+    4300064: Box05
+    4300066: Box06
+    4300068: Box07
+    4300070: Box08
+    4300072: Box09
+    4300074: Box10
+    4300076: Text29
+    4300078: Text31
+    4300080: Text33
+    4300082: Text34
+    4300084: Text35
+    4300086: Text36
+    4300088: Text37
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

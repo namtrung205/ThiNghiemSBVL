@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: 1dc0c1f12e6259a4da341f9554f21f74
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Day Dien 1
+    100002: Layer:0
+    100004: Layer:Bang Dieu Khien
+    100006: Layer:Be Nen Duoi
+    100008: Layer:Be Nen Tren
+    100010: Layer:Cong tac 1
+    100012: Layer:Cong tac 2
+    100014: Layer:Cong tac 3
+    100016: Layer:Cong tac 4
+    100018: Layer:Cong tac Chinh
+    100020: Layer:Cot tron
+    100022: Layer:Cot Xoan
+    100024: Layer:Day Dien
+    100026: Layer:Kep Phai Duoi
+    100028: Layer:Kep Phai Tren
+    100030: Layer:Kep Trai Duoi
+    100032: Layer:Kep Trai Tren
+    100034: Layer:Longden
+    100036: Layer:Mau Keo
+    100038: Layer:Ngam Duoi
+    100040: Layer:Ngam Duoi 1
+    100042: Layer:Ngam Tren
+    100044: Layer:Ngam Tren 1
+    100046: Layer:Than Duoi
+    100048: Layer:Than Tren
+    100050: Layer:U Duoi
+    100052: Layer:Vanh Den Duoi
+    100054: Layer:Vanh Den Duoi 1
+    100056: Layer:Vanh Den Tren
+    100058: Layer:Vanh Vang
+    100060: OcnhoDen
+    100062: OcToSathan
+    100064: //RootNode
+    400000: Day Dien 1
+    400002: Layer:0
+    400004: Layer:Bang Dieu Khien
+    400006: Layer:Be Nen Duoi
+    400008: Layer:Be Nen Tren
+    400010: Layer:Cong tac 1
+    400012: Layer:Cong tac 2
+    400014: Layer:Cong tac 3
+    400016: Layer:Cong tac 4
+    400018: Layer:Cong tac Chinh
+    400020: Layer:Cot tron
+    400022: Layer:Cot Xoan
+    400024: Layer:Day Dien
+    400026: Layer:Kep Phai Duoi
+    400028: Layer:Kep Phai Tren
+    400030: Layer:Kep Trai Duoi
+    400032: Layer:Kep Trai Tren
+    400034: Layer:Longden
+    400036: Layer:Mau Keo
+    400038: Layer:Ngam Duoi
+    400040: Layer:Ngam Duoi 1
+    400042: Layer:Ngam Tren
+    400044: Layer:Ngam Tren 1
+    400046: Layer:Than Duoi
+    400048: Layer:Than Tren
+    400050: Layer:U Duoi
+    400052: Layer:Vanh Den Duoi
+    400054: Layer:Vanh Den Duoi 1
+    400056: Layer:Vanh Den Tren
+    400058: Layer:Vanh Vang
+    400060: OcnhoDen
+    400062: OcToSathan
+    400064: //RootNode
+    2100000: No Name
+    2300000: Day Dien 1
+    2300002: Layer:Bang Dieu Khien
+    2300004: Layer:Be Nen Duoi
+    2300006: Layer:Be Nen Tren
+    2300008: Layer:Cong tac 1
+    2300010: Layer:Cong tac 2
+    2300012: Layer:Cong tac 3
+    2300014: Layer:Cong tac 4
+    2300016: Layer:Cong tac Chinh
+    2300018: Layer:Cot tron
+    2300020: Layer:Cot Xoan
+    2300022: Layer:Day Dien
+    2300024: Layer:Kep Phai Duoi
+    2300026: Layer:Kep Phai Tren
+    2300028: Layer:Kep Trai Duoi
+    2300030: Layer:Kep Trai Tren
+    2300032: Layer:Longden
+    2300034: Layer:Mau Keo
+    2300036: Layer:Ngam Duoi 1
+    2300038: Layer:Ngam Tren
+    2300040: Layer:Than Duoi
+    2300042: Layer:Than Tren
+    2300044: Layer:U Duoi
+    2300046: Layer:Vanh Den Duoi
+    2300048: Layer:Vanh Den Tren
+    2300050: Layer:Vanh Vang
+    2300052: OcnhoDen
+    2300054: OcToSathan
+    3300000: Day Dien 1
+    3300002: Layer:Bang Dieu Khien
+    3300004: Layer:Be Nen Duoi
+    3300006: Layer:Be Nen Tren
+    3300008: Layer:Cong tac 1
+    3300010: Layer:Cong tac 2
+    3300012: Layer:Cong tac 3
+    3300014: Layer:Cong tac 4
+    3300016: Layer:Cong tac Chinh
+    3300018: Layer:Cot tron
+    3300020: Layer:Cot Xoan
+    3300022: Layer:Day Dien
+    3300024: Layer:Kep Phai Duoi
+    3300026: Layer:Kep Phai Tren
+    3300028: Layer:Kep Trai Duoi
+    3300030: Layer:Kep Trai Tren
+    3300032: Layer:Longden
+    3300034: Layer:Mau Keo
+    3300036: Layer:Ngam Duoi 1
+    3300038: Layer:Ngam Tren
+    3300040: Layer:Than Duoi
+    3300042: Layer:Than Tren
+    3300044: Layer:U Duoi
+    3300046: Layer:Vanh Den Duoi
+    3300048: Layer:Vanh Den Tren
+    3300050: Layer:Vanh Vang
+    3300052: OcnhoDen
+    3300054: OcToSathan
+    4300000: Layer:Ngam Tren
+    4300002: Layer:Vanh Den Tren
+    4300004: Layer:Kep Trai Tren
+    4300006: Layer:U Duoi
+    4300008: Layer:Than Duoi
+    4300010: Layer:Than Tren
+    4300012: Layer:Be Nen Duoi
+    4300014: Layer:Bang Dieu Khien
+    4300016: Layer:Cong tac Chinh
+    4300018: Layer:Cong tac 1
+    4300020: Layer:Cong tac 2
+    4300022: Layer:Cong tac 3
+    4300024: Layer:Cong tac 4
+    4300026: Layer:Vanh Vang
+    4300028: Layer:Kep Phai Tren
+    4300030: Layer:Ngam Duoi
+    4300032: Layer:Vanh Den Duoi
+    4300034: Layer:Kep Trai Duoi
+    4300036: Layer:Kep Phai Duoi
+    4300038: Layer:Longden
+    4300040: Layer:Cot Xoan
+    4300042: Layer:Be Nen Tren
+    4300044: Layer:Mau Keo
+    4300046: Layer:Cot tron
+    4300048: Layer:Day Dien
+    4300050: OcToSathan
+    4300052: OcnhoDen
+    4300054: Day Dien 1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: 820b420087869524f9db55e136857618
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Layer:0
+    100002: Layer:0 1
+    100004: Layer:Chan De
+    100006: Layer:Chan Kim 1
+    100008: Layer:Chan Kim 2
+    100010: Layer:Chan Nhua
+    100012: Layer:Day treo 1
+    100014: Layer:Day treo 1 1
+    100016: Layer:Day Treo 2
+    100018: Layer:Day Treo 2 1
+    100020: Layer:Inox
+    100022: Layer:Inox 1
+    100024: Layer:Kim Loai
+    100026: Layer:Kim Loai 1
+    100028: Layer:Kim Loai 2
+    100030: Layer:Kim Loai 3
+    100032: Layer:Mat Tay Van
+    100034: Layer:Nhua
+    100036: Layer:Ong Thep Chu
+    100038: Layer:Rong Roc
+    100040: Layer:Tay Don 1
+    100042: Layer:Tay Don 2
+    100044: Layer:Tay Don 3
+    100046: Layer:Tay Don 4
+    100048: Layer:Tay Van
+    100050: Layer:Thanh Chan
+    100052: Layer:Thanh Han Gia Co
+    100054: Layer:Thanh Han Gia Co 1
+    100056: Layer:Thep Hop 1
+    100058: Layer:Thep Hop 2
+    100060: //RootNode
+    400000: Layer:0
+    400002: Layer:0 1
+    400004: Layer:Chan De
+    400006: Layer:Chan Kim 1
+    400008: Layer:Chan Kim 2
+    400010: Layer:Chan Nhua
+    400012: Layer:Day treo 1
+    400014: Layer:Day treo 1 1
+    400016: Layer:Day Treo 2
+    400018: Layer:Day Treo 2 1
+    400020: Layer:Inox
+    400022: Layer:Inox 1
+    400024: Layer:Kim Loai
+    400026: Layer:Kim Loai 1
+    400028: Layer:Kim Loai 2
+    400030: Layer:Kim Loai 3
+    400032: Layer:Mat Tay Van
+    400034: Layer:Nhua
+    400036: Layer:Ong Thep Chu
+    400038: Layer:Rong Roc
+    400040: Layer:Tay Don 1
+    400042: Layer:Tay Don 2
+    400044: Layer:Tay Don 3
+    400046: Layer:Tay Don 4
+    400048: Layer:Tay Van
+    400050: Layer:Thanh Chan
+    400052: Layer:Thanh Han Gia Co
+    400054: Layer:Thanh Han Gia Co 1
+    400056: Layer:Thep Hop 1
+    400058: Layer:Thep Hop 2
+    400060: //RootNode
+    2100000: No Name
+    2300000: Layer:0
+    2300002: Layer:Chan De
+    2300004: Layer:Chan Kim 1
+    2300006: Layer:Chan Kim 2
+    2300008: Layer:Chan Nhua
+    2300010: Layer:Day treo 1
+    2300012: Layer:Day treo 1 1
+    2300014: Layer:Day Treo 2
+    2300016: Layer:Day Treo 2 1
+    2300018: Layer:Inox
+    2300020: Layer:Inox 1
+    2300022: Layer:Kim Loai
+    2300024: Layer:Kim Loai 1
+    2300026: Layer:Kim Loai 2
+    2300028: Layer:Kim Loai 3
+    2300030: Layer:Mat Tay Van
+    2300032: Layer:Nhua
+    2300034: Layer:Ong Thep Chu
+    2300036: Layer:Rong Roc
+    2300038: Layer:Tay Don 1
+    2300040: Layer:Tay Don 2
+    2300042: Layer:Tay Don 3
+    2300044: Layer:Tay Don 4
+    2300046: Layer:Tay Van
+    2300048: Layer:Thanh Chan
+    2300050: Layer:Thanh Han Gia Co
+    2300052: Layer:Thanh Han Gia Co 1
+    2300054: Layer:Thep Hop 1
+    2300056: Layer:Thep Hop 2
+    3300000: Layer:0
+    3300002: Layer:Chan De
+    3300004: Layer:Chan Kim 1
+    3300006: Layer:Chan Kim 2
+    3300008: Layer:Chan Nhua
+    3300010: Layer:Day treo 1
+    3300012: Layer:Day treo 1 1
+    3300014: Layer:Day Treo 2
+    3300016: Layer:Day Treo 2 1
+    3300018: Layer:Inox
+    3300020: Layer:Inox 1
+    3300022: Layer:Kim Loai
+    3300024: Layer:Kim Loai 1
+    3300026: Layer:Kim Loai 2
+    3300028: Layer:Kim Loai 3
+    3300030: Layer:Mat Tay Van
+    3300032: Layer:Nhua
+    3300034: Layer:Ong Thep Chu
+    3300036: Layer:Rong Roc
+    3300038: Layer:Tay Don 1
+    3300040: Layer:Tay Don 2
+    3300042: Layer:Tay Don 3
+    3300044: Layer:Tay Don 4
+    3300046: Layer:Tay Van
+    3300048: Layer:Thanh Chan
+    3300050: Layer:Thanh Han Gia Co
+    3300052: Layer:Thanh Han Gia Co 1
+    3300054: Layer:Thep Hop 1
+    3300056: Layer:Thep Hop 2
+    4300000: Layer:Thep Hop 1
+    4300002: Layer:Ong Thep Chu
+    4300004: Layer:Inox
+    4300006: Layer:Thanh Han Gia Co
+    4300008: Layer:Thep Hop 2
+    4300010: Layer:Tay Don 4
+    4300012: Layer:Tay Don 3
+    4300014: Layer:Kim Loai
+    4300016: Layer:Kim Loai
+    4300018: Layer:Mat Tay Van
+    4300020: Layer:Kim Loai
+    4300022: Layer:Nhua
+    4300024: Layer:Chan Kim 2
+    4300026: Layer:0
+    4300028: Layer:Chan Kim 1
+    4300030: Layer:Inox
+    4300032: Layer:Thanh Han Gia Co
+    4300034: Layer:Kim Loai
+    4300036: Layer:Tay Don 2
+    4300038: Layer:Tay Don 1
+    4300040: Layer:Day Treo 2
+    4300042: Layer:Day treo 1
+    4300044: Layer:Day treo 1
+    4300046: Layer:Thanh Chan
+    4300048: Layer:Chan De
+    4300050: Layer:Chan Nhua
+    4300052: Layer:Rong Roc
+    4300054: Layer:Day Treo 2
+    4300056: Layer:Tay Van
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

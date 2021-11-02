@@ -1,0 +1,418 @@
+fileFormatVersion: 2
+guid: 87d591092b776ed49b9d9cc6fcf63081
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Block:Adjustable_Screw
+    100002: Block:Balanceing Part
+    100004: Block:Base Plate of Stand
+    100006: Block:Circular Plate_Rod of spring Sys
+    100008: Block:Circular Plate_Rod of spring Sys 1
+    100010: Block:End Plate of Spring
+    100012: Block:End Plate of Spring 1
+    100014: Block:Inner Pin Of Spring
+    100016: Block:Inner Pin Of Spring 1
+    100018: Block:Inner Pin Of Spring 2
+    100020: Block:Inner Pin Of Spring 3
+    100022: Block:Marker_Measuring Rod
+    100024: Block:Measuring Rod
+    100026: Block:Meter_Dial
+    100028: Block:Part_Lower Plate of side block
+    100030: Block:Part_Lower Plate of side block 1
+    100032: Block:Rod of Spring System
+    100034: Block:Side_1_Block
+    100036: Block:Support on Lower Plate of spring
+    100038: Block:Support on Lower Plate of spring 1
+    100040: Block:Support on Lower Plate of spring 2
+    100042: Block:Support on Lower Plate of spring 3
+    100044: Block:Symmetry of Adjustable_Screw
+    100046: Block:Symmetry of Balanceing Part
+    100048: Block:Symmetry of Base Plate of Stand
+    100050: Block:Symmetry of Lower Plate of Side Block
+    100052: Block:Symmetry of Lower Plate of Side Block 1
+    100054: Block:Symmetry of Marker_Measuring Rod
+    100056: Block:Symmetry of Measuring Rod
+    100058: Block:Symmetry of Meter Gauge
+    100060: Block:Symmetry of Part1
+    100062: Layer:0
+    100064: Layer:0 1
+    100066: Layer:0 10
+    100068: Layer:0 11
+    100070: Layer:0 12
+    100072: Layer:0 13
+    100074: Layer:0 14
+    100076: Layer:0 15
+    100078: Layer:0 16
+    100080: Layer:0 17
+    100082: Layer:0 18
+    100084: Layer:0 19
+    100086: Layer:0 2
+    100088: Layer:0 20
+    100090: Layer:0 21
+    100092: Layer:0 22
+    100094: Layer:0 23
+    100096: Layer:0 24
+    100098: Layer:0 25
+    100100: Layer:0 26
+    100102: Layer:0 27
+    100104: Layer:0 28
+    100106: Layer:0 29
+    100108: Layer:0 3
+    100110: Layer:0 30
+    100112: Layer:0 31
+    100114: Layer:0 32
+    100116: Layer:0 4
+    100118: Layer:0 5
+    100120: Layer:0 6
+    100122: Layer:0 7
+    100124: Layer:0 8
+    100126: Layer:0 9
+    100128: Layer:02 Kim Loai Den
+    100130: Layer:ATF$InvisibleObjects
+    100132: Layer:ATF$InvisibleObjects 1
+    100134: Layer:ATF$InvisibleObjects 10
+    100136: Layer:ATF$InvisibleObjects 11
+    100138: Layer:ATF$InvisibleObjects 12
+    100140: Layer:ATF$InvisibleObjects 13
+    100142: Layer:ATF$InvisibleObjects 14
+    100144: Layer:ATF$InvisibleObjects 15
+    100146: Layer:ATF$InvisibleObjects 16
+    100148: Layer:ATF$InvisibleObjects 17
+    100150: Layer:ATF$InvisibleObjects 18
+    100152: Layer:ATF$InvisibleObjects 19
+    100154: Layer:ATF$InvisibleObjects 2
+    100156: Layer:ATF$InvisibleObjects 20
+    100158: Layer:ATF$InvisibleObjects 21
+    100160: Layer:ATF$InvisibleObjects 22
+    100162: Layer:ATF$InvisibleObjects 23
+    100164: Layer:ATF$InvisibleObjects 3
+    100166: Layer:ATF$InvisibleObjects 4
+    100168: Layer:ATF$InvisibleObjects 5
+    100170: Layer:ATF$InvisibleObjects 6
+    100172: Layer:ATF$InvisibleObjects 7
+    100174: Layer:ATF$InvisibleObjects 8
+    100176: Layer:ATF$InvisibleObjects 9
+    100178: //RootNode
+    400000: Block:Adjustable_Screw
+    400002: Block:Balanceing Part
+    400004: Block:Base Plate of Stand
+    400006: Block:Circular Plate_Rod of spring Sys
+    400008: Block:Circular Plate_Rod of spring Sys 1
+    400010: Block:End Plate of Spring
+    400012: Block:End Plate of Spring 1
+    400014: Block:Inner Pin Of Spring
+    400016: Block:Inner Pin Of Spring 1
+    400018: Block:Inner Pin Of Spring 2
+    400020: Block:Inner Pin Of Spring 3
+    400022: Block:Marker_Measuring Rod
+    400024: Block:Measuring Rod
+    400026: Block:Meter_Dial
+    400028: Block:Part_Lower Plate of side block
+    400030: Block:Part_Lower Plate of side block 1
+    400032: Block:Rod of Spring System
+    400034: Block:Side_1_Block
+    400036: Block:Support on Lower Plate of spring
+    400038: Block:Support on Lower Plate of spring 1
+    400040: Block:Support on Lower Plate of spring 2
+    400042: Block:Support on Lower Plate of spring 3
+    400044: Block:Symmetry of Adjustable_Screw
+    400046: Block:Symmetry of Balanceing Part
+    400048: Block:Symmetry of Base Plate of Stand
+    400050: Block:Symmetry of Lower Plate of Side Block
+    400052: Block:Symmetry of Lower Plate of Side Block 1
+    400054: Block:Symmetry of Marker_Measuring Rod
+    400056: Block:Symmetry of Measuring Rod
+    400058: Block:Symmetry of Meter Gauge
+    400060: Block:Symmetry of Part1
+    400062: Layer:0
+    400064: Layer:0 1
+    400066: Layer:0 10
+    400068: Layer:0 11
+    400070: Layer:0 12
+    400072: Layer:0 13
+    400074: Layer:0 14
+    400076: Layer:0 15
+    400078: Layer:0 16
+    400080: Layer:0 17
+    400082: Layer:0 18
+    400084: Layer:0 19
+    400086: Layer:0 2
+    400088: Layer:0 20
+    400090: Layer:0 21
+    400092: Layer:0 22
+    400094: Layer:0 23
+    400096: Layer:0 24
+    400098: Layer:0 25
+    400100: Layer:0 26
+    400102: Layer:0 27
+    400104: Layer:0 28
+    400106: Layer:0 29
+    400108: Layer:0 3
+    400110: Layer:0 30
+    400112: Layer:0 31
+    400114: Layer:0 32
+    400116: Layer:0 4
+    400118: Layer:0 5
+    400120: Layer:0 6
+    400122: Layer:0 7
+    400124: Layer:0 8
+    400126: Layer:0 9
+    400128: Layer:02 Kim Loai Den
+    400130: Layer:ATF$InvisibleObjects
+    400132: Layer:ATF$InvisibleObjects 1
+    400134: Layer:ATF$InvisibleObjects 10
+    400136: Layer:ATF$InvisibleObjects 11
+    400138: Layer:ATF$InvisibleObjects 12
+    400140: Layer:ATF$InvisibleObjects 13
+    400142: Layer:ATF$InvisibleObjects 14
+    400144: Layer:ATF$InvisibleObjects 15
+    400146: Layer:ATF$InvisibleObjects 16
+    400148: Layer:ATF$InvisibleObjects 17
+    400150: Layer:ATF$InvisibleObjects 18
+    400152: Layer:ATF$InvisibleObjects 19
+    400154: Layer:ATF$InvisibleObjects 2
+    400156: Layer:ATF$InvisibleObjects 20
+    400158: Layer:ATF$InvisibleObjects 21
+    400160: Layer:ATF$InvisibleObjects 22
+    400162: Layer:ATF$InvisibleObjects 23
+    400164: Layer:ATF$InvisibleObjects 3
+    400166: Layer:ATF$InvisibleObjects 4
+    400168: Layer:ATF$InvisibleObjects 5
+    400170: Layer:ATF$InvisibleObjects 6
+    400172: Layer:ATF$InvisibleObjects 7
+    400174: Layer:ATF$InvisibleObjects 8
+    400176: Layer:ATF$InvisibleObjects 9
+    400178: //RootNode
+    2100000: No Name
+    2300000: Layer:0
+    2300002: Layer:0 10
+    2300004: Layer:0 11
+    2300006: Layer:0 12
+    2300008: Layer:0 13
+    2300010: Layer:0 14
+    2300012: Layer:0 15
+    2300014: Layer:0 16
+    2300016: Layer:0 17
+    2300018: Layer:0 18
+    2300020: Layer:0 19
+    2300022: Layer:0 2
+    2300024: Layer:0 20
+    2300026: Layer:0 21
+    2300028: Layer:0 22
+    2300030: Layer:0 23
+    2300032: Layer:0 24
+    2300034: Layer:0 25
+    2300036: Layer:0 26
+    2300038: Layer:0 27
+    2300040: Layer:0 28
+    2300042: Layer:0 29
+    2300044: Layer:0 3
+    2300046: Layer:0 30
+    2300048: Layer:0 31
+    2300050: Layer:0 32
+    2300052: Layer:0 4
+    2300054: Layer:0 5
+    2300056: Layer:0 6
+    2300058: Layer:0 7
+    2300060: Layer:0 8
+    2300062: Layer:0 9
+    2300064: Layer:02 Kim Loai Den
+    2300066: Layer:ATF$InvisibleObjects
+    2300068: Layer:ATF$InvisibleObjects 1
+    2300070: Layer:ATF$InvisibleObjects 12
+    2300072: Layer:ATF$InvisibleObjects 13
+    2300074: Layer:ATF$InvisibleObjects 14
+    2300076: Layer:ATF$InvisibleObjects 15
+    2300078: Layer:ATF$InvisibleObjects 16
+    2300080: Layer:ATF$InvisibleObjects 18
+    2300082: Layer:ATF$InvisibleObjects 19
+    2300084: Layer:ATF$InvisibleObjects 2
+    2300086: Layer:ATF$InvisibleObjects 20
+    2300088: Layer:ATF$InvisibleObjects 21
+    2300090: Layer:ATF$InvisibleObjects 22
+    2300092: Layer:ATF$InvisibleObjects 4
+    2300094: Layer:ATF$InvisibleObjects 5
+    2300096: Layer:ATF$InvisibleObjects 6
+    2300098: Layer:ATF$InvisibleObjects 7
+    3300000: Layer:0
+    3300002: Layer:0 10
+    3300004: Layer:0 11
+    3300006: Layer:0 12
+    3300008: Layer:0 13
+    3300010: Layer:0 14
+    3300012: Layer:0 15
+    3300014: Layer:0 16
+    3300016: Layer:0 17
+    3300018: Layer:0 18
+    3300020: Layer:0 19
+    3300022: Layer:0 2
+    3300024: Layer:0 20
+    3300026: Layer:0 21
+    3300028: Layer:0 22
+    3300030: Layer:0 23
+    3300032: Layer:0 24
+    3300034: Layer:0 25
+    3300036: Layer:0 26
+    3300038: Layer:0 27
+    3300040: Layer:0 28
+    3300042: Layer:0 29
+    3300044: Layer:0 3
+    3300046: Layer:0 30
+    3300048: Layer:0 31
+    3300050: Layer:0 32
+    3300052: Layer:0 4
+    3300054: Layer:0 5
+    3300056: Layer:0 6
+    3300058: Layer:0 7
+    3300060: Layer:0 8
+    3300062: Layer:0 9
+    3300064: Layer:02 Kim Loai Den
+    3300066: Layer:ATF$InvisibleObjects
+    3300068: Layer:ATF$InvisibleObjects 1
+    3300070: Layer:ATF$InvisibleObjects 12
+    3300072: Layer:ATF$InvisibleObjects 13
+    3300074: Layer:ATF$InvisibleObjects 14
+    3300076: Layer:ATF$InvisibleObjects 15
+    3300078: Layer:ATF$InvisibleObjects 16
+    3300080: Layer:ATF$InvisibleObjects 18
+    3300082: Layer:ATF$InvisibleObjects 19
+    3300084: Layer:ATF$InvisibleObjects 2
+    3300086: Layer:ATF$InvisibleObjects 20
+    3300088: Layer:ATF$InvisibleObjects 21
+    3300090: Layer:ATF$InvisibleObjects 22
+    3300092: Layer:ATF$InvisibleObjects 4
+    3300094: Layer:ATF$InvisibleObjects 5
+    3300096: Layer:ATF$InvisibleObjects 6
+    3300098: Layer:ATF$InvisibleObjects 7
+    4300000: Layer:0
+    4300002: Layer:ATF$InvisibleObjects
+    4300004: Layer:0
+    4300006: Layer:ATF$InvisibleObjects
+    4300008: Layer:0
+    4300010: Layer:ATF$InvisibleObjects
+    4300012: Layer:0
+    4300014: Layer:ATF$InvisibleObjects
+    4300016: Layer:0
+    4300018: Layer:ATF$InvisibleObjects
+    4300020: Layer:0
+    4300022: Layer:ATF$InvisibleObjects
+    4300024: Layer:0
+    4300026: Layer:0
+    4300028: Layer:0
+    4300030: Layer:0
+    4300032: Layer:0
+    4300034: Layer:0
+    4300036: Layer:0
+    4300038: Layer:0
+    4300040: Layer:0
+    4300042: Layer:ATF$InvisibleObjects
+    4300044: Layer:0
+    4300046: Layer:ATF$InvisibleObjects
+    4300048: Layer:0
+    4300050: Layer:ATF$InvisibleObjects
+    4300052: Layer:0
+    4300054: Layer:0
+    4300056: Layer:ATF$InvisibleObjects
+    4300058: Layer:0
+    4300060: Layer:0
+    4300062: Layer:0
+    4300064: Layer:ATF$InvisibleObjects
+    4300066: Layer:0
+    4300068: Layer:ATF$InvisibleObjects
+    4300070: Layer:02 Kim Loai Den
+    4300072: Layer:0
+    4300074: Layer:ATF$InvisibleObjects
+    4300076: Layer:0
+    4300078: Layer:ATF$InvisibleObjects
+    4300080: Layer:0
+    4300082: Layer:0
+    4300084: Layer:0
+    4300086: Layer:ATF$InvisibleObjects
+    4300088: Layer:0
+    4300090: Layer:0
+    4300092: Layer:ATF$InvisibleObjects
+    4300094: Layer:0
+    4300096: Layer:ATF$InvisibleObjects
+    4300098: Layer:0
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

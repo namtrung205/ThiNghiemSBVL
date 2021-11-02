@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 555034bcf1692f341a1293bfebb7a8ca
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Layer:0
+    100004: Layer:0 1
+    100006: Layer:Chan De
+    100008: Layer:Chan Kim 1
+    100010: Layer:Chan Kim 2
+    100012: Layer:Chan Nhua
+    100014: Layer:Day treo 1
+    100016: Layer:Day treo 1 1
+    100018: Layer:Kim Loai
+    100020: Layer:Kim Loai 1
+    100022: Layer:Kim Loai 2
+    100024: Layer:Kim Loai 3
+    100026: Layer:Mat Tay Van
+    100028: Layer:Nhua
+    100030: Layer:Ong Thep Chu
+    100032: Layer:Tay Don 1
+    100034: Layer:Tay Van
+    100036: Layer:Thanh Chan
+    100038: Layer:Thanh Han Gia Co
+    100040: Layer:Thep Hop 1
+    100042: Layer:Thep Hop 1 1
+    100044: Layer:Thep Hop 2
+    400000: //RootNode
+    400002: Layer:0
+    400004: Layer:0 1
+    400006: Layer:Chan De
+    400008: Layer:Chan Kim 1
+    400010: Layer:Chan Kim 2
+    400012: Layer:Chan Nhua
+    400014: Layer:Day treo 1
+    400016: Layer:Day treo 1 1
+    400018: Layer:Kim Loai
+    400020: Layer:Kim Loai 1
+    400022: Layer:Kim Loai 2
+    400024: Layer:Kim Loai 3
+    400026: Layer:Mat Tay Van
+    400028: Layer:Nhua
+    400030: Layer:Ong Thep Chu
+    400032: Layer:Tay Don 1
+    400034: Layer:Tay Van
+    400036: Layer:Thanh Chan
+    400038: Layer:Thanh Han Gia Co
+    400040: Layer:Thep Hop 1
+    400042: Layer:Thep Hop 1 1
+    400044: Layer:Thep Hop 2
+    2100000: No Name
+    2300000: Layer:0 1
+    2300002: Layer:Chan De
+    2300004: Layer:Chan Kim 1
+    2300006: Layer:Chan Kim 2
+    2300008: Layer:Chan Nhua
+    2300010: Layer:Day treo 1
+    2300012: Layer:Day treo 1 1
+    2300014: Layer:Kim Loai
+    2300016: Layer:Kim Loai 1
+    2300018: Layer:Kim Loai 2
+    2300020: Layer:Kim Loai 3
+    2300022: Layer:Mat Tay Van
+    2300024: Layer:Nhua
+    2300026: Layer:Ong Thep Chu
+    2300028: Layer:Tay Don 1
+    2300030: Layer:Tay Van
+    2300032: Layer:Thanh Chan
+    2300034: Layer:Thanh Han Gia Co
+    2300036: Layer:Thep Hop 1
+    2300038: Layer:Thep Hop 2
+    3300000: Layer:0 1
+    3300002: Layer:Chan De
+    3300004: Layer:Chan Kim 1
+    3300006: Layer:Chan Kim 2
+    3300008: Layer:Chan Nhua
+    3300010: Layer:Day treo 1
+    3300012: Layer:Day treo 1 1
+    3300014: Layer:Kim Loai
+    3300016: Layer:Kim Loai 1
+    3300018: Layer:Kim Loai 2
+    3300020: Layer:Kim Loai 3
+    3300022: Layer:Mat Tay Van
+    3300024: Layer:Nhua
+    3300026: Layer:Ong Thep Chu
+    3300028: Layer:Tay Don 1
+    3300030: Layer:Tay Van
+    3300032: Layer:Thanh Chan
+    3300034: Layer:Thanh Han Gia Co
+    3300036: Layer:Thep Hop 1
+    3300038: Layer:Thep Hop 2
+    4300000: Layer:Thep Hop 1
+    4300002: Layer:Thep Hop 2
+    4300004: Layer:Thanh Han Gia Co
+    4300006: Layer:Kim Loai
+    4300008: Layer:Day treo 1
+    4300010: Layer:Day treo 1
+    4300012: Layer:Thanh Chan
+    4300014: Layer:Chan De
+    4300016: Layer:Chan Nhua
+    4300018: Layer:Tay Van
+    4300020: Layer:Ong Thep Chu
+    4300022: Layer:Kim Loai
+    4300024: Layer:Tay Don 1
+    4300026: Layer:Nhua
+    4300028: Layer:Mat Tay Van
+    4300030: Layer:Kim Loai
+    4300032: Layer:Chan Kim 1
+    4300034: Layer:0
+    4300036: Layer:Kim Loai
+    4300038: Layer:Chan Kim 2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

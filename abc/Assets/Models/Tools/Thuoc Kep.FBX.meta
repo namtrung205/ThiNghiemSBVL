@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 5d9bce6b866afc34cbed428137a0f6ed
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Layer:01
+    100002: Layer:Cum truot to01
+    100004: Screw
+    100006: Screw01
+    100008: Text02
+    100010: Text03
+    100012: Text04
+    100014: Text05
+    100016: Text06
+    100018: Text07
+    100020: Text08
+    100022: Text09
+    100024: Text10
+    100026: Text11
+    100028: Text12
+    100030: Text13
+    100032: //RootNode
+    400000: Layer:01
+    400002: Layer:Cum truot to01
+    400004: Screw
+    400006: Screw01
+    400008: Text02
+    400010: Text03
+    400012: Text04
+    400014: Text05
+    400016: Text06
+    400018: Text07
+    400020: Text08
+    400022: Text09
+    400024: Text10
+    400026: Text11
+    400028: Text12
+    400030: Text13
+    400032: //RootNode
+    2100000: 01 - Default
+    2100002: 08 - Default
+    2100004: asdsd
+    2100006: No Name
+    2300000: Layer:01
+    2300002: Layer:Cum truot to01
+    2300004: Screw
+    2300006: Screw01
+    2300008: Text02
+    2300010: Text03
+    2300012: Text04
+    2300014: Text05
+    2300016: Text06
+    2300018: Text07
+    2300020: Text08
+    2300022: Text09
+    2300024: Text10
+    2300026: Text11
+    2300028: Text12
+    2300030: Text13
+    3300000: Layer:01
+    3300002: Layer:Cum truot to01
+    3300004: Screw
+    3300006: Screw01
+    3300008: Text02
+    3300010: Text03
+    3300012: Text04
+    3300014: Text05
+    3300016: Text06
+    3300018: Text07
+    3300020: Text08
+    3300022: Text09
+    3300024: Text10
+    3300026: Text11
+    3300028: Text12
+    3300030: Text13
+    4300000: Layer:01
+    4300002: Layer:Cum truot to01
+    4300004: Screw
+    4300006: Screw01
+    4300008: Text02
+    4300010: Text03
+    4300012: Text04
+    4300014: Text05
+    4300016: Text06
+    4300018: Text07
+    4300020: Text08
+    4300022: Text09
+    4300024: Text10
+    4300026: Text11
+    4300028: Text12
+    4300030: Text13
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

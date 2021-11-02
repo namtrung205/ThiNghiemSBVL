@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: 7b46cfe7dcb859d4f98a44246b81b7b6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Block:0BC5BD516CC2C431219D436DAFC34B7B87758460$$$C906BBC760572095F726B39B13C9EDE80CDE5667
+    100002: Block:0BC5BD516CC2C431219D436DAFC34B7B87758460$$$C906BBC760572095F726B39B13C9EDE80CDE5667
+      1
+    100004: Block:7DFFF4909A0DDDD49161ECE45A65B1C2F44B8B8C$$$C906BBC760572095F726B39B13C9EDE80CDE5667
+    100006: Block:7DFFF4909A0DDDD49161ECE45A65B1C2F44B8B8C$$$C906BBC760572095F726B39B13C9EDE80CDE5667
+      1
+    100008: Block:A1327720C016A94A15DF5BBA5B647CF2A5A8F212$$$C906BBC760572095F726B39B13C9EDE80CDE5667
+    100010: Block:A1327720C016A94A15DF5BBA5B647CF2A5A8F212$$$C906BBC760572095F726B39B13C9EDE80CDE5667
+      1
+    100012: Block:A8FE05FA7D08956761AE9E54A9CD93A7A400D2E3$$$C906BBC760572095F726B39B13C9EDE80CDE5667
+    100014: Block:A8FE05FA7D08956761AE9E54A9CD93A7A400D2E3$$$C906BBC760572095F726B39B13C9EDE80CDE5667
+      1
+    100016: Block:B039800AF51305602A7368628E3D954A99C572BC$$$C906BBC760572095F726B39B13C9EDE80CDE5667
+    100018: Block:B039800AF51305602A7368628E3D954A99C572BC$$$C906BBC760572095F726B39B13C9EDE80CDE5667
+      1
+    100020: Block:BOLT-CUM-NUT
+    100022: Block:BOLT-CUM-NUT 1
+    100024: Block:END-NUT-PILLAR
+    100026: Block:END-NUT-PILLAR 1
+    100028: Block:NUT-ATTACHED-ABOVE-BOLTCUMNUT
+    100030: Block:NUT-ATTACHED-ABOVE-BOLTCUMNUT 1
+    100032: Block:PILLAR
+    100034: Block:PILLAR 1
+    100036: Block:SCREW-
+    100038: Block:SCREW- 1
+    100040: Layer:0
+    100042: Layer:0 1
+    100044: Layer:Bang Dieu Khien
+    100046: Layer:Cong tac 1
+    100048: Layer:Cong tac 2
+    100050: Layer:Cong tac 3
+    100052: Layer:Cong tac 4
+    100054: Layer:Cot tron
+    100056: Layer:Cot tron 1
+    100058: Layer:Cot tron 2
+    100060: Layer:Cot tron 3
+    100062: Layer:Cot Xoan
+    100064: Layer:Cot Xoan 1
+    100066: Layer:Cot Xoan 2
+    100068: Layer:Cot Xoan 3
+    100070: Layer:Kep Trai Duoi
+    100072: Layer:Kep Trai Tren
+    100074: Layer:Longden
+    100076: Layer:Ngam Duoi
+    100078: Layer:Ngam Duoi 1
+    100080: Layer:Ngam Duoi 2
+    100082: Layer:Ngam Duoi 3
+    100084: Layer:Ngam Duoi 4
+    100086: Layer:Ngam Duoi 5
+    100088: Layer:Ngam Duoi 6
+    100090: Layer:Ngam Duoi 7
+    100092: Layer:Ngam Duoi 8
+    100094: Layer:Ngam Duoi 9
+    100096: Layer:Ngam Tren
+    100098: Layer:Ngam Tren 1
+    100100: Layer:Ngam Tren 2
+    100102: Layer:Ngam Tren 3
+    100104: Layer:Ngam Tren 4
+    100106: Layer:Ngam Tren 5
+    100108: Layer:Vanh Vang
+    100110: //RootNode
+    400000: Block:0BC5BD516CC2C431219D436DAFC34B7B87758460$$$C906BBC760572095F726B39B13C9EDE80CDE5667
+    400002: Block:0BC5BD516CC2C431219D436DAFC34B7B87758460$$$C906BBC760572095F726B39B13C9EDE80CDE5667
+      1
+    400004: Block:7DFFF4909A0DDDD49161ECE45A65B1C2F44B8B8C$$$C906BBC760572095F726B39B13C9EDE80CDE5667
+    400006: Block:7DFFF4909A0DDDD49161ECE45A65B1C2F44B8B8C$$$C906BBC760572095F726B39B13C9EDE80CDE5667
+      1
+    400008: Block:A1327720C016A94A15DF5BBA5B647CF2A5A8F212$$$C906BBC760572095F726B39B13C9EDE80CDE5667
+    400010: Block:A1327720C016A94A15DF5BBA5B647CF2A5A8F212$$$C906BBC760572095F726B39B13C9EDE80CDE5667
+      1
+    400012: Block:A8FE05FA7D08956761AE9E54A9CD93A7A400D2E3$$$C906BBC760572095F726B39B13C9EDE80CDE5667
+    400014: Block:A8FE05FA7D08956761AE9E54A9CD93A7A400D2E3$$$C906BBC760572095F726B39B13C9EDE80CDE5667
+      1
+    400016: Block:B039800AF51305602A7368628E3D954A99C572BC$$$C906BBC760572095F726B39B13C9EDE80CDE5667
+    400018: Block:B039800AF51305602A7368628E3D954A99C572BC$$$C906BBC760572095F726B39B13C9EDE80CDE5667
+      1
+    400020: Block:BOLT-CUM-NUT
+    400022: Block:BOLT-CUM-NUT 1
+    400024: Block:END-NUT-PILLAR
+    400026: Block:END-NUT-PILLAR 1
+    400028: Block:NUT-ATTACHED-ABOVE-BOLTCUMNUT
+    400030: Block:NUT-ATTACHED-ABOVE-BOLTCUMNUT 1
+    400032: Block:PILLAR
+    400034: Block:PILLAR 1
+    400036: Block:SCREW-
+    400038: Block:SCREW- 1
+    400040: Layer:0
+    400042: Layer:0 1
+    400044: Layer:Bang Dieu Khien
+    400046: Layer:Cong tac 1
+    400048: Layer:Cong tac 2
+    400050: Layer:Cong tac 3
+    400052: Layer:Cong tac 4
+    400054: Layer:Cot tron
+    400056: Layer:Cot tron 1
+    400058: Layer:Cot tron 2
+    400060: Layer:Cot tron 3
+    400062: Layer:Cot Xoan
+    400064: Layer:Cot Xoan 1
+    400066: Layer:Cot Xoan 2
+    400068: Layer:Cot Xoan 3
+    400070: Layer:Kep Trai Duoi
+    400072: Layer:Kep Trai Tren
+    400074: Layer:Longden
+    400076: Layer:Ngam Duoi
+    400078: Layer:Ngam Duoi 1
+    400080: Layer:Ngam Duoi 2
+    400082: Layer:Ngam Duoi 3
+    400084: Layer:Ngam Duoi 4
+    400086: Layer:Ngam Duoi 5
+    400088: Layer:Ngam Duoi 6
+    400090: Layer:Ngam Duoi 7
+    400092: Layer:Ngam Duoi 8
+    400094: Layer:Ngam Duoi 9
+    400096: Layer:Ngam Tren
+    400098: Layer:Ngam Tren 1
+    400100: Layer:Ngam Tren 2
+    400102: Layer:Ngam Tren 3
+    400104: Layer:Ngam Tren 4
+    400106: Layer:Ngam Tren 5
+    400108: Layer:Vanh Vang
+    400110: //RootNode
+    2100000: No Name
+    2300000: Layer:0
+    2300002: Layer:Bang Dieu Khien
+    2300004: Layer:Cong tac 1
+    2300006: Layer:Cong tac 2
+    2300008: Layer:Cong tac 3
+    2300010: Layer:Cong tac 4
+    2300012: Layer:Cot tron
+    2300014: Layer:Cot tron 1
+    2300016: Layer:Cot Xoan
+    2300018: Layer:Cot Xoan 1
+    2300020: Layer:Kep Trai Duoi
+    2300022: Layer:Kep Trai Tren
+    2300024: Layer:Longden
+    2300026: Layer:Ngam Duoi 1
+    2300028: Layer:Ngam Duoi 2
+    2300030: Layer:Ngam Duoi 3
+    2300032: Layer:Ngam Duoi 4
+    2300034: Layer:Ngam Duoi 5
+    2300036: Layer:Ngam Tren 1
+    2300038: Layer:Ngam Tren 2
+    2300040: Layer:Ngam Tren 3
+    2300042: Layer:Vanh Vang
+    3300000: Layer:0
+    3300002: Layer:Bang Dieu Khien
+    3300004: Layer:Cong tac 1
+    3300006: Layer:Cong tac 2
+    3300008: Layer:Cong tac 3
+    3300010: Layer:Cong tac 4
+    3300012: Layer:Cot tron
+    3300014: Layer:Cot tron 1
+    3300016: Layer:Cot Xoan
+    3300018: Layer:Cot Xoan 1
+    3300020: Layer:Kep Trai Duoi
+    3300022: Layer:Kep Trai Tren
+    3300024: Layer:Longden
+    3300026: Layer:Ngam Duoi 1
+    3300028: Layer:Ngam Duoi 2
+    3300030: Layer:Ngam Duoi 3
+    3300032: Layer:Ngam Duoi 4
+    3300034: Layer:Ngam Duoi 5
+    3300036: Layer:Ngam Tren 1
+    3300038: Layer:Ngam Tren 2
+    3300040: Layer:Ngam Tren 3
+    3300042: Layer:Vanh Vang
+    4300000: Layer:Ngam Tren
+    4300002: Layer:Cot Xoan
+    4300004: Layer:Cot tron
+    4300006: Layer:Ngam Tren
+    4300008: Layer:Cot tron
+    4300010: Layer:Ngam Tren
+    4300012: Layer:Cot Xoan
+    4300014: Layer:Ngam Duoi
+    4300016: Layer:Ngam Duoi
+    4300018: Layer:Ngam Duoi
+    4300020: Layer:Ngam Duoi
+    4300022: Layer:Kep Trai Tren
+    4300024: Layer:Ngam Duoi
+    4300026: Layer:0
+    4300028: Layer:Bang Dieu Khien
+    4300030: Layer:Cong tac 1
+    4300032: Layer:Cong tac 2
+    4300034: Layer:Cong tac 3
+    4300036: Layer:Cong tac 4
+    4300038: Layer:Vanh Vang
+    4300040: Layer:Kep Trai Duoi
+    4300042: Layer:Longden
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
