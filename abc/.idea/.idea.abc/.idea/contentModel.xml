@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\NAMTRUNG205\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\NAMTRUNG205\.Rider2019.1\system\resharper-host\Local\Transient\ReSharperHost\v191\SolutionCaches\_abc.-1761974839.00" t="ExcludeRecursive" />
+    <e p="C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc" t="IncludeRecursive">
+      <e p="abc.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Cleaner" t="Include">
+          <e p="Editor" t="Include">
+            <e p="AssetCollector.cs" t="Include" />
+            <e p="AssetReferenceCollection.cs" t="Include" />
+            <e p="ClassReferenceCollection.cs" t="Include" />
+            <e p="CollectionData.cs" t="Include" />
+            <e p="FindUnusedAssetsWindow.cs" t="Include" />
+            <e p="ShaderReferenceCollection.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Config" t="Include">
+          <e p="pathExportPdf.txt" t="Include" />
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="RuntimeSceneGizmo" t="Include">
+            <e p="Demo" t="Include">
+              <e p="CameraGizmoListener.cs" t="Include" />
+              <e p="CameraMovement.cs" t="Include" />
+            </e>
+            <e p="Materials" t="Include">
+              <e p="SceneGizmoShader.shader" t="Include" />
+            </e>
+            <e p="README.txt" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="SceneGizmoController.cs" t="Include" />
+              <e p="SceneGizmoRenderer.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="RuntimeGizmo" t="Include">
+          <e p="Custom" t="Include">
+            <e p="TransformGizmoCustomGizmo.cs" t="Include" />
+          </e>
+          <e p="Helpers" t="Include">
+            <e p="ExtMathf.cs" t="Include" />
+            <e p="ExtTransform.cs" t="Include" />
+            <e p="ExtTransformType.cs" t="Include" />
+            <e p="ExtVector3.cs" t="Include" />
+            <e p="Geometry.cs" t="Include" />
+          </e>
+          <e p="Objects" t="Include">
+            <e p="AxisInfo.cs" t="Include" />
+            <e p="AxisVectors.cs" t="Include" />
+            <e p="Commands" t="Include">
+              <e p="SelectCommand.cs" t="Include" />
+              <e p="TransformCommand.cs" t="Include" />
+            </e>
+            <e p="Enums.cs" t="Include" />
+            <e p="IntersectPoints.cs" t="Include" />
+            <e p="Square.cs" t="Include" />
+            <e p="TargetInfo.cs" t="Include" />
+          </e>
+          <e p="Shader" t="Include">
+            <e p="Resources" t="Include">
+              <e p="Lines.shader" t="Include" />
+              <e p="Outline.shader" t="Include" />
+            </e>
+          </e>
+          <e p="UndoRedo" t="Include">
+            <e p="CommandGroup.cs" t="Include" />
+            <e p="DropoutStack.cs" t="Include" />
+            <e p="ICommand.cs" t="Include" />
+            <e p="UndoRedo.cs" t="Include" />
+            <e p="UndoRedoManager.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Scenes" t="Include">
+          <e p="BackMainMenu.cs" t="Include" />
+          <e p="BackMenu.cs" t="Include" />
+          <e p="CheckLicense.cs" t="Include" />
+          <e p="QuitScript.cs" t="Include" />
+          <e p="ScreneSelector.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="BiiboarScript.cs" t="Include" />
+          <e p="CameraOrbit.cs" t="Include" />
+          <e p="CameraSwitch.cs" t="Include" />
+          <e p="ClickToShow.cs" t="Include" />
+          <e p="ClickToShowAndHide.cs" t="Include" />
+          <e p="ClickToShowSection.cs" t="Include" />
+          <e p="ClickToView.cs" t="Include" />
+          <e p="Common" t="Include">
+            <e p="ClickOpenURL.cs" t="Include" />
+            <e p="CountTime.cs" t="Include" />
+          </e>
+          <e p="CountWeight.cs" t="Include" />
+          <e p="DragAndSnapable.cs" t="Include" />
+          <e p="DragObject.cs" t="Include" />
+          <e p="DragSlider.cs" t="Include" />
+          <e p="Export RePort" t="Include">
+            <e p="test.cs" t="Include" />
+          </e>
+          <e p="ExportReport.cs" t="Include" />
+          <e p="FixedYZLocation.cs" t="Include" />
+          <e p="FolowSlide.cs" t="Include" />
+          <e p="HighLightElement" t="Include">
+            <e p="ButtonToolTip.cs" t="Include" />
+            <e p="DisPlayToolTip.cs" t="Include" />
+            <e p="FadeOutImage.cs" t="Include" />
+            <e p="HightLightable.cs" t="Include" />
+            <e p="ShowGuide.cs" t="Include" />
+            <e p="ShowInfo.cs" t="Include" />
+          </e>
+          <e p="HoldMouseToMove.cs" t="Include" />
+          <e p="MoveCamera.cs" t="Include" />
+          <e p="PerspectivePan.cs" t="Include" />
+          <e p="PressToMove.cs" t="Include" />
+          <e p="PressToMoveCam.cs" t="Include" />
+          <e p="PressToMoveRule.cs" t="Include" />
+          <e p="Scripts Control Cameras" t="Include">
+            <e p="HoldMouseToMoveCamRightUp.cs" t="Include" />
+          </e>
+          <e p="SelectionManager.cs" t="Include" />
+          <e p="ShowVideoHelp.cs" t="Include" />
+          <e p="Thi Nghiem 1" t="Include">
+            <e p="ClickToHideSelf.cs" t="Include" />
+            <e p="ClickToHideSelfByMove.cs" t="Include" />
+            <e p="ClickToShowAndHideSelf.cs" t="Include" />
+            <e p="ClickToShowAndHideSelf_NotMove.cs" t="Include" />
+            <e p="GetToDay.cs" t="Include" />
+            <e p="PlaySoundPressButton.cs" t="Include" />
+            <e p="PressSwithButton.cs" t="Include" />
+            <e p="PressToPlayAnimation.cs" t="Include" />
+            <e p="SaveInputValueToTextTN1.cs" t="Include" />
+            <e p="StartRandomChart.cs" t="Include" />
+            <e p="VideoControl.cs" t="Include" />
+          </e>
+          <e p="Thi Nghiem 2" t="Include">
+            <e p="ClickToActive.cs" t="Include" />
+            <e p="CountRotation.cs" t="Include" />
+            <e p="RotateByMouse.cs" t="Include" />
+            <e p="SaveInputValueToTextTN2.cs" t="Include" />
+            <e p="StartRandomImage.cs" t="Include" />
+          </e>
+          <e p="Thi Nghiem 3" t="Include">
+            <e p="SaveInputValueToTextTN3.cs" t="Include" />
+            <e p="StartUpRandomValue.cs" t="Include" />
+          </e>
+          <e p="Thi Nghiem 4" t="Include">
+            <e p="DetectCol.cs" t="Include" />
+            <e p="MainCalculateFunc.cs" t="Include" />
+            <e p="MoveXByMouse.cs" t="Include" />
+            <e p="PickWeightManager.cs" t="Include" />
+            <e p="RandomAngleStart.cs" t="Include" />
+            <e p="RandomRotateY.cs" t="Include" />
+            <e p="SaveInputValueToTextTN4.cs" t="Include" />
+          </e>
+          <e p="Thi Nghiem 5" t="Include">
+            <e p="ClickToMoreWeightMainFunc.cs" t="Include" />
+            <e p="RandomRotateZ.cs" t="Include" />
+            <e p="SaveInputValueToTextTN5.cs" t="Include" />
+          </e>
+          <e p="Thuoc Kep Control" t="Include">
+            <e p="FixedPositionAndRotation.cs" t="Include" />
+            <e p="ShowRotationCurrent.cs" t="Include" />
+            <e p="SnapAngle.cs" t="Include" />
+          </e>
+          <e p="TransformGizmo.cs" t="Include" />
+          <e p="TransformGizmoOnLyRoX.cs" t="Include" />
+          <e p="ZoomCamThis.cs" t="Include" />
+        </e>
+        <e p="Templates" t="Include">
+          <e p="OutPut_TN1.txt" t="Include" />
+          <e p="OutPut_TN3.txt" t="Include" />
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Examples &amp; Extras" t="Include">
+            <e p="Fonts" t="Include">
+              <e p="Anton OFL.txt" t="Include" />
+              <e p="Bangers - OFL.txt" t="Include" />
+              <e p="LiberationSans - OFL.txt" t="Include" />
+              <e p="Oswald-Bold - OFL.txt" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="Benchmark01.cs" t="Include" />
+              <e p="Benchmark01_UGUI.cs" t="Include" />
+              <e p="Benchmark02.cs" t="Include" />
+              <e p="Benchmark03.cs" t="Include" />
+              <e p="Benchmark04.cs" t="Include" />
+              <e p="CameraController.cs" t="Include" />
+              <e p="ChatController.cs" t="Include" />
+              <e p="EnvMapAnimator.cs" t="Include" />
+              <e p="ObjectSpin.cs" t="Include" />
+              <e p="ShaderPropAnimator.cs" t="Include" />
+              <e p="SimpleScript.cs" t="Include" />
+              <e p="SkewTextExample.cs" t="Include" />
+              <e p="TeleType.cs" t="Include" />
+              <e p="TextConsoleSimulator.cs" t="Include" />
+              <e p="TextMeshProFloatingText.cs" t="Include" />
+              <e p="TextMeshSpawner.cs" t="Include" />
+              <e p="TMP_DigitValidator.cs" t="Include" />
+              <e p="TMP_ExampleScript_01.cs" t="Include" />
+              <e p="TMP_FrameRateCounter.cs" t="Include" />
+              <e p="TMP_PhoneNumberValidator.cs" t="Include" />
+              <e p="TMP_TextEventCheck.cs" t="Include" />
+              <e p="TMP_TextEventHandler.cs" t="Include" />
+              <e p="TMP_TextInfoDebugTool.cs" t="Include" />
+              <e p="TMP_TextSelector_A.cs" t="Include" />
+              <e p="TMP_TextSelector_B.cs" t="Include" />
+              <e p="TMP_UiFrameRateCounter.cs" t="Include" />
+              <e p="TMPro_InstructionOverlay.cs" t="Include" />
+              <e p="VertexColorCycler.cs" t="Include" />
+              <e p="VertexJitter.cs" t="Include" />
+              <e p="VertexShakeA.cs" t="Include" />
+              <e p="VertexShakeB.cs" t="Include" />
+              <e p="VertexZoom.cs" t="Include" />
+              <e p="WarpTextExample.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Shaders" t="Include">
+              <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+              <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+              <e p="TMP_Bitmap.shader" t="Include" />
+              <e p="TMP_SDF Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface.shader" t="Include" />
+              <e p="TMP_SDF.shader" t="Include" />
+              <e p="TMP_Sprite.shader" t="Include" />
+              <e p="TMPro.cginc" t="Include" />
+              <e p="TMPro_Properties.cginc" t="Include" />
+              <e p="TMPro_Surface.cginc" t="Include" />
+            </e>
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

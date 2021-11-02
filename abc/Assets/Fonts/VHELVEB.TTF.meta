@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: c72469211c757c542be07e26f3948729
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: VNI-Helve
+  fontNames:
+  - VNI-Helve
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f2832670f9bc2db439dd0b9601760593, type: 3}
+  - {fileID: 12800000, guid: 9bb4df173574c9743b90b31fd83ce833, type: 3}
+  - {fileID: 12800000, guid: 0b044a586691fa04cac82229e2b571e1, type: 3}
+  - {fileID: 12800000, guid: 250ce82c92d2a7a48a8c39ff9ea48d0f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 2e786554fadecac4d9f9636edb5af10e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: VNI-Helve-Condense
+  fontNames:
+  - VNI-Helve-Condense
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2def1859c90194d428af2b810ec8df87, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
