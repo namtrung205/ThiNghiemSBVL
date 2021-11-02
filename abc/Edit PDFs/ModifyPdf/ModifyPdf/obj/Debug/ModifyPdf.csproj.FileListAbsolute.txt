@@ -1,0 +1,25 @@
+E:\DEV\C# Projects\Consoles\Edit PDFs\ModifyPdf\ModifyPdf\bin\Debug\ModifyPdf.exe.config
+E:\DEV\C# Projects\Consoles\Edit PDFs\ModifyPdf\ModifyPdf\bin\Debug\ModifyPdf.exe
+E:\DEV\C# Projects\Consoles\Edit PDFs\ModifyPdf\ModifyPdf\bin\Debug\ModifyPdf.pdb
+E:\DEV\C# Projects\Consoles\Edit PDFs\ModifyPdf\ModifyPdf\bin\Debug\itextsharp.dll
+E:\DEV\C# Projects\Consoles\Edit PDFs\ModifyPdf\ModifyPdf\bin\Debug\itextsharp.xml
+E:\DEV\C# Projects\Consoles\Edit PDFs\ModifyPdf\ModifyPdf\obj\Debug\ModifyPdf.csprojResolveAssemblyReference.cache
+E:\DEV\C# Projects\Consoles\Edit PDFs\ModifyPdf\ModifyPdf\obj\Debug\ModifyPdf.exe
+E:\DEV\C# Projects\Consoles\Edit PDFs\ModifyPdf\ModifyPdf\obj\Debug\ModifyPdf.pdb
+E:\DEV\C# Projects\Consoles\Edit PDFs\ModifyPdf\ModifyPdf\obj\Debug\ModifyPdf.csproj.ResolveComReference.cache
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Edit PDFs\ModifyPdf\ModifyPdf\bin\Debug\ModifyPdf.exe.config
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Edit PDFs\ModifyPdf\ModifyPdf\obj\Debug\ModifyPdf.csproj.ResolveComReference.cache
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Edit PDFs\ModifyPdf\ModifyPdf\obj\Debug\ModifyPdf.exe
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Edit PDFs\ModifyPdf\ModifyPdf\obj\Debug\ModifyPdf.pdb
+D:\MEGA\GameDev\ThiNghiemAo\abc\Edit PDFs\ModifyPdf\ModifyPdf\bin\Debug\ModifyPdf.exe.config
+D:\MEGA\GameDev\ThiNghiemAo\abc\Edit PDFs\ModifyPdf\ModifyPdf\bin\Debug\ModifyPdf.exe
+D:\MEGA\GameDev\ThiNghiemAo\abc\Edit PDFs\ModifyPdf\ModifyPdf\bin\Debug\ModifyPdf.pdb
+D:\MEGA\GameDev\ThiNghiemAo\abc\Edit PDFs\ModifyPdf\ModifyPdf\bin\Debug\itextsharp.dll
+D:\MEGA\GameDev\ThiNghiemAo\abc\Edit PDFs\ModifyPdf\ModifyPdf\bin\Debug\itextsharp.xml
+D:\MEGA\GameDev\ThiNghiemAo\abc\Edit PDFs\ModifyPdf\ModifyPdf\obj\Debug\ModifyPdf.csproj.AssemblyReference.cache
+D:\MEGA\GameDev\ThiNghiemAo\abc\Edit PDFs\ModifyPdf\ModifyPdf\obj\Debug\ModifyPdf.csproj.ResolveComReference.cache
+D:\MEGA\GameDev\ThiNghiemAo\abc\Edit PDFs\ModifyPdf\ModifyPdf\obj\Debug\ModifyPdf.csproj.CoreCompileInputs.cache
+D:\MEGA\GameDev\ThiNghiemAo\abc\Edit PDFs\ModifyPdf\ModifyPdf\obj\Debug\ModifyPdf.csproj.CopyComplete
+D:\MEGA\GameDev\ThiNghiemAo\abc\Edit PDFs\ModifyPdf\ModifyPdf\obj\Debug\ModifyPdf.exe
+D:\MEGA\GameDev\ThiNghiemAo\abc\Edit PDFs\ModifyPdf\ModifyPdf\obj\Debug\ModifyPdf.pdb
+D:\MEGA\GameDev\ThiNghiemAo\abc\Edit PDFs\ModifyPdf\ModifyPdf\bin\Debug\PdfSharp.dll
