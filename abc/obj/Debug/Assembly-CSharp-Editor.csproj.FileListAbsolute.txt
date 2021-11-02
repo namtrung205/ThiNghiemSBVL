@@ -1,0 +1,1770 @@
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\Assembly-CSharp-Editor.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\Boo.Lang.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\mscorlib.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\nunit.framework.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\Unity.Locator.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEditor.Advertisements.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEditor.Analytics.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEditor.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEditor.Graphs.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEditor.HoloLens.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEditor.Networking.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEditor.Purchasing.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEditor.TestRunner.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEditor.Timeline.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEditor.VR.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityScript.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityScript.Lang.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\Unity.IvyParser.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEditor.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEditor.UI.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEditor.TestRunner.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\nunit.framework.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEditor.Timeline.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEditor.Networking.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEditor.HoloLens.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEditor.VR.xml
+C:\Users\NAMTRUNG205\Documents\abc\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+C:\Users\NAMTRUNG205\Documents\abc\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache
+C:\Users\NAMTRUNG205\Documents\abc\obj\Debug\Assembly-CSharp-Editor.dll
+C:\Users\NAMTRUNG205\Documents\abc\obj\Debug\Assembly-CSharp-Editor.pdb
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\Assembly-CSharp-Editor.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\nunit.framework.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.CoreModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\Boo.Lang.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\mscorlib.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.Locator.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.TextMeshPro.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.Advertisements.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.Analytics.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.Graphs.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.HoloLens.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.Networking.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.Purchasing.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.TestRunner.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.Timeline.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.UI.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.VR.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AIModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ARModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AudioModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ClothModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.GridModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.InputModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TLSModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UIModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UNETModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.VideoModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.VRModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.WindModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.XRModule.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityScript.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityScript.Lang.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.Cecil.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.DataContract.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\ExCSS.Unity.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\Boo.Lang.Parser.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\Boo.Lang.Compiler.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.IvyParser.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\Boo.Lang.Useful.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AIModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ARModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AudioModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ClothModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.CoreModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.GridModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.InputModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TLSModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UIModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UNETModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.VRModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.VideoModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.WindModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.XRModule.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.UI.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.TestRunner.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\nunit.framework.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.Timeline.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.Networking.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.HoloLens.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.VR.xml
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+E:\Thi Nghiem Ao\abc\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache
+E:\Thi Nghiem Ao\abc\obj\Debug\Assembly-CSharp-Editor.dll
+E:\Thi Nghiem Ao\abc\obj\Debug\Assembly-CSharp-Editor.pdb
+E:\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.WebGL.Extensions.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\Assembly-CSharp-Editor.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\Boo.Lang.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\mscorlib.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\nunit.framework.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\System.Core.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\System.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\System.Xml.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\System.Xml.Linq.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.Locator.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.Advertisements.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.Analytics.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.Graphs.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.HoloLens.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.Networking.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.Purchasing.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.TestRunner.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.Timeline.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.UI.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.VR.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.WebGL.Extensions.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityScript.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityScript.Lang.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.Cecil.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.DataContract.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\ExCSS.Unity.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\Boo.Lang.Parser.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\Boo.Lang.Compiler.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.IvyParser.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\Boo.Lang.Useful.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.UI.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.TestRunner.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\nunit.framework.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.Timeline.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.Networking.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.HoloLens.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.VR.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+D:\Trung's Projects\Thi Nghiem Ao\abc\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache
+D:\Trung's Projects\Thi Nghiem Ao\abc\obj\Debug\Assembly-CSharp-Editor.dll
+D:\Trung's Projects\Thi Nghiem Ao\abc\obj\Debug\Assembly-CSharp-Editor.pdb
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\Assembly-CSharp-Editor.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\Boo.Lang.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\mscorlib.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\nunit.framework.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.Locator.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.TextMeshPro.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.Advertisements.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.Analytics.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.Graphs.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.HoloLens.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.Networking.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.Purchasing.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.TestRunner.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.Timeline.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.UI.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.VR.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.WebGL.Extensions.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AIModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ARModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AudioModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ClothModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.CoreModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.GridModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.InputModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TLSModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UIModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UNETModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.VideoModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.VRModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.WebGLModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.WindModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.XRModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityScript.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityScript.Lang.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.Cecil.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.DataContract.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\ExCSS.Unity.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\Boo.Lang.Parser.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\Boo.Lang.Compiler.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.IvyParser.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\Boo.Lang.Useful.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AIModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ARModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AudioModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ClothModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.CoreModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.GridModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.InputModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TLSModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UIModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UNETModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.VRModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.VideoModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.WindModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.XRModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.UI.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.TestRunner.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\nunit.framework.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.Timeline.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.Networking.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.HoloLens.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.VR.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\obj\Debug\Assembly-CSharp-Editor.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\abc\obj\Debug\Assembly-CSharp-Editor.pdb
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\Assembly-CSharp-Editor.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\Boo.Lang.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\mscorlib.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\nunit.framework.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.Locator.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.TextMeshPro.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.Advertisements.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.Analytics.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.Graphs.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.HoloLens.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.Networking.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.Purchasing.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.TestRunner.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.Timeline.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.UI.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.VR.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.WebGL.Extensions.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AIModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ARModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AudioModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ClothModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.CoreModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.GridModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.InputModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TLSModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UIModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UNETModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.VideoModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.VRModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.WebGLModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.WindModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.XRModule.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityScript.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityScript.Lang.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.Cecil.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.DataContract.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\ExCSS.Unity.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\Boo.Lang.Parser.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\Boo.Lang.Compiler.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.IvyParser.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\Boo.Lang.Useful.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AIModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ARModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.AudioModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ClothModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.CoreModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.GridModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.InputModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TLSModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UIModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UNETModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.VRModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.VideoModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.WindModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.XRModule.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.UI.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.TestRunner.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\nunit.framework.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.Timeline.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.Networking.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.HoloLens.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.VR.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\obj\Debug\Assembly-CSharp-Editor.dll
+E:\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\Thi Nghiem Ao\abc\obj\Debug\Assembly-CSharp-Editor.pdb
+E:\ThiNghiemAo\abc\Temp\bin\Debug\Assembly-CSharp-Editor.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
+E:\ThiNghiemAo\abc\Temp\bin\Debug\Boo.Lang.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\mscorlib.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\nunit.framework.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\Unity.Locator.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\Unity.TextMeshPro.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.Advertisements.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.Analytics.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.Graphs.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.HoloLens.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.Networking.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.Purchasing.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.TestRunner.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.Timeline.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.UI.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.VR.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.WebGL.Extensions.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AIModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ARModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AudioModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ClothModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.CoreModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.GridModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.InputModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TLSModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UI.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UIModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UNETModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.VideoModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.VRModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.WindModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.XRModule.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityScript.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityScript.Lang.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\Unity.Cecil.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\Unity.DataContract.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\ExCSS.Unity.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\Boo.Lang.Parser.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\Boo.Lang.Compiler.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\Unity.IvyParser.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\Boo.Lang.Useful.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\Unity.CecilTools.dll
+E:\ThiNghiemAo\abc\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\ThiNghiemAo\abc\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AIModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ARModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AudioModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ClothModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.CoreModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.GridModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.InputModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TLSModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UIModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UNETModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.VRModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.VideoModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.WindModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.XRModule.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UI.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.UI.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.TestRunner.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\nunit.framework.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.Timeline.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.Networking.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.HoloLens.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.VR.xml
+E:\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+E:\ThiNghiemAo\abc\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache
+E:\ThiNghiemAo\abc\obj\Debug\Assembly-CSharp-Editor.dll
+E:\ThiNghiemAo\abc\obj\Debug\Assembly-CSharp-Editor.pdb
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Assembly-CSharp-Editor.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Boo.Lang.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\mscorlib.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\nunit.framework.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\System.Core.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\System.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\System.Xml.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\System.Xml.Linq.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Unity.Locator.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.Advertisements.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.Analytics.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.Graphs.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.HoloLens.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.Networking.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.Purchasing.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.TestRunner.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.Timeline.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.UI.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.VR.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.WebGL.Extensions.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityScript.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityScript.Lang.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Unity.Cecil.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Unity.DataContract.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\ExCSS.Unity.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Boo.Lang.Parser.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Boo.Lang.Compiler.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Unity.IvyParser.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Boo.Lang.Useful.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.UI.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.TestRunner.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\nunit.framework.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.Timeline.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.Networking.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.HoloLens.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.VR.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\obj\Debug\Assembly-CSharp-Editor.dll
+D:\Trung's Projects\ThiNghiemAo\ThiNghiemAo\abc\obj\Debug\Assembly-CSharp-Editor.pdb
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Assembly-CSharp-Editor.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Boo.Lang.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\mscorlib.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\nunit.framework.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Unity.Locator.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Unity.TextMeshPro.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.Advertisements.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.Analytics.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.Graphs.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.HoloLens.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.Networking.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.Purchasing.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.TestRunner.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.Timeline.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.UI.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.VR.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.WebGL.Extensions.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AIModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ARModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AudioModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ClothModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.CoreModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.GridModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.InputModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TLSModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UI.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UIModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UNETModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.VideoModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.VRModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.WindModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.XRModule.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityScript.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityScript.Lang.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Unity.Cecil.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Unity.DataContract.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\ExCSS.Unity.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Boo.Lang.Parser.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Boo.Lang.Compiler.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Unity.IvyParser.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Boo.Lang.Useful.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Unity.CecilTools.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AIModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ARModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AudioModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ClothModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.CoreModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.GridModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.InputModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TLSModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UIModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UNETModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.VRModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.VideoModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.WindModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.XRModule.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UI.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.UI.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.TestRunner.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\nunit.framework.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.Timeline.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.Networking.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.HoloLens.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.VR.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\obj\Debug\Assembly-CSharp-Editor.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\obj\Debug\Assembly-CSharp-Editor.pdb
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+E:\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Assembly-CSharp-Editor.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Boo.Lang.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\mscorlib.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\nunit.framework.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\System.Core.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\System.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\System.Xml.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Unity.Locator.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.Advertisements.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.Analytics.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.Graphs.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.HoloLens.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.Networking.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.Purchasing.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.TestRunner.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.Timeline.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.VR.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.WebGL.Extensions.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityScript.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityScript.Lang.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Unity.IvyParser.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.UI.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.TestRunner.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\nunit.framework.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.Timeline.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.Networking.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.HoloLens.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.VR.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\obj\Debug\Assembly-CSharp-Editor.dll
+C:\Users\NAMTRUNG205\Desktop\ThiNghiemAo\ThiNghiemAo\ThiNghiemAo\abc\obj\Debug\Assembly-CSharp-Editor.pdb
