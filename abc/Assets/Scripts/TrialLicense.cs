@@ -27,6 +27,7 @@ public class TrialLicense : MonoBehaviour
 
     void Start()
     {
+    #if UNITY_STANDALONE_WIN
         try
         {
             IEnumerable<string> linesOfBin = File.ReadLines(nameBinData);
@@ -96,7 +97,9 @@ public class TrialLicense : MonoBehaviour
             }
             return;
         }
-
+#else
+        return;
+#endif
     }
 
 

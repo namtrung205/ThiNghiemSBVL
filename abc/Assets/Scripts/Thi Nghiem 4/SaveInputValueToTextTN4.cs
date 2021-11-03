@@ -3,11 +3,20 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using System.IO;
+using SFB;
 
 public class SaveInputValueToTextTN4 : MonoBehaviour {
 	public string nameOutPutFile = @"Templates\OutPut_TN4.txt";
 
-	public string txtFile = "";
+    public int resWidth = 2550;
+    public int resHeight = 3300;
+    public Camera screenShotCam;
+
+    public GameObject originReport;
+    public GameObject cloneReport;
+
+
+    public string txtFile = "";
 	public string templateFile = "";
 	public string tenSinhVien = "";
 
@@ -216,15 +225,15 @@ public class SaveInputValueToTextTN4 : MonoBehaviour {
 
 				foreach (InputField gameObj in GameObject.FindObjectsOfType<InputField>()) {
 
-					if (gameObj.name == myNameObject) {
+					//if (gameObj.name == myNameObject) {
 
-						if (gameObj.text == "" || gameObj.text == null) {
-							myDicOut.Add (gameObj.name, "{" + gameObj.name + "}");
-						} else {
-							myDicOut.Add (gameObj.name, gameObj.text);
-						}
+					//	if (gameObj.text == "" || gameObj.text == null) {
+					//		myDicOut.Add (gameObj.name, "{" + gameObj.name + "}");
+					//	} else {
+					//		myDicOut.Add (gameObj.name, gameObj.text);
+					//	}
 
-					}
+					//}
 				}
 
 			}
@@ -245,19 +254,136 @@ public class SaveInputValueToTextTN4 : MonoBehaviour {
 			}
 
 
-			//ExportFiles
-			//will open from the applications dataPath directory
-			System.Diagnostics.Process.Start ("ModifyPdf.exe",
-				txtFile + " " + templateFile + " " + tenSinhVien);
+            ////ExportFiles
+            ////will open from the applications dataPath directory
+            //System.Diagnostics.Process.Start ("ModifyPdf.exe",
+            //	txtFile + " " + templateFile + " " + tenSinhVien);
+
+            //Sceen Shot
+            if (cloneReport != null)
+            {
+                foreach (Transform child in cloneReport.transform)
+                {
+                    InputField tempInputField = child.GetComponent<InputField>();
+
+                    if (tempInputField != null)
+                    {
+                        string nameOfField = tempInputField.name;
+                        if (originReport != null)
+                        {
+                            foreach (Transform childOrigin in originReport.transform)
+                            {
+                                InputField tempInputFieldOrigin = childOrigin.GetComponent<InputField>();
+                                if (tempInputFieldOrigin != null)
+                                {
+                                    if (tempInputFieldOrigin.name == nameOfField)
+                                    {
+                                        tempInputField.text = tempInputFieldOrigin.text;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+
+                screenShotCam.gameObject.SetActive(true);
+
+                RenderTexture rt = new RenderTexture(resWidth, resHeight, 24);
+
+                screenShotCam.targetTexture = rt;
+                Texture2D screenShot = new Texture2D(resWidth, resHeight, TextureFormat.RGB24, false);
+                screenShotCam.Render();
+                RenderTexture.active = rt;
+                screenShot.ReadPixels(new Rect(0, 0, resWidth, resHeight), 0, 0);
+                screenShotCam.targetTexture = null;
+                RenderTexture.active = null;
+                Destroy(rt);
+                byte[] bytes = screenShot.EncodeToPNG();
+
+                // Save file
+
+                string pathSave = StandaloneFileBrowser.SaveFilePanel("Save File", "", "", "png");
+
+                try
+                {
+                    System.IO.File.WriteAllBytes(pathSave, bytes);
+                    Debug.Log(string.Format("Took screenshot to: {0}", pathSave));
+                    screenShotCam.gameObject.SetActive(false);
+                }
+                catch
+                {
+
+                }
+            }
 
 
-		} else {
+
+        }
+        else {
 
 			TN4_Check.text = "KHOÂNG ÑAÏT";
             warningWindow.gameObject.SetActive(true);
             exportPDFWindow.gameObject.SetActive(false);
         }
-	}
+
+        //For Test
+        //if (cloneReport != null)
+        //{
+        //    foreach (Transform child in cloneReport.transform)
+        //    {
+        //        InputField tempInputField = child.GetComponent<InputField>();
+
+        //        if (tempInputField != null)
+        //        {
+        //            string nameOfField = tempInputField.name;
+        //            if (originReport != null)
+        //            {
+        //                foreach (Transform childOrigin in originReport.transform)
+        //                {
+        //                    InputField tempInputFieldOrigin = childOrigin.GetComponent<InputField>();
+        //                    if (tempInputFieldOrigin != null)
+        //                    {
+        //                        if (tempInputFieldOrigin.name == nameOfField)
+        //                        {
+        //                            tempInputField.text = tempInputFieldOrigin.text;
+        //                        }
+        //                    }
+        //                }
+        //            }
+        //        }
+        //    }
+
+        //    screenShotCam.gameObject.SetActive(true);
+
+        //    RenderTexture rt = new RenderTexture(resWidth, resHeight, 24);
+
+        //    screenShotCam.targetTexture = rt;
+        //    Texture2D screenShot = new Texture2D(resWidth, resHeight, TextureFormat.RGB24, false);
+        //    screenShotCam.Render();
+        //    RenderTexture.active = rt;
+        //    screenShot.ReadPixels(new Rect(0, 0, resWidth, resHeight), 0, 0);
+        //    screenShotCam.targetTexture = null;
+        //    RenderTexture.active = null;
+        //    Destroy(rt);
+        //    byte[] bytes = screenShot.EncodeToPNG();
+
+        //    // Save file
+
+        //    string pathSave = StandaloneFileBrowser.SaveFilePanel("Save File", "", "", "png");
+
+        //    try
+        //    {
+        //        System.IO.File.WriteAllBytes(pathSave, bytes);
+        //        Debug.Log(string.Format("Took screenshot to: {0}", pathSave));
+        //        screenShotCam.gameObject.SetActive(false);
+        //    }
+        //    catch
+        //    {
+
+        //    }
+        //}
+
+    }
     public bool CheckTolerance(InputField inputField, float correctValue, float tolerance, bool dontCheckValue = false)
     {
         //Kiem tra cac o nhap lieu co trong ko?

@@ -1,8 +1,8 @@
-{TenGiaoVien}|sd
+{TenGiaoVien}|Haø Vaên Quaân
 
-{Lop}|sdf
+{Lop}|Nhoùm 1
 
-{Nhom}|Nhaäp teân cuûa baïn vaøo!
+{Nhom}|sadsada
 
-{TenSinhVien}|sdf
+{TenSinhVien}|Nguyeãn Vaên B
 

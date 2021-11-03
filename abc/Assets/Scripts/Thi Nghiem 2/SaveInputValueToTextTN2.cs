@@ -189,15 +189,15 @@ public class SaveInputValueToTextTN2 : MonoBehaviour {
 				foreach (InputField gameObj in GameObject.FindObjectsOfType<InputField>()) 
 				{
 
-					if (gameObj.name == myNameObject) {
+					//if (gameObj.name == myNameObject) {
 
-						if (gameObj.text == "" || gameObj.text == null) {
-							myDicOut.Add (gameObj.name, "{" + gameObj.name + "}");
-						} else {
-							myDicOut.Add (gameObj.name, gameObj.text);
-						}
+					//	if (gameObj.text == "" || gameObj.text == null) {
+					//		myDicOut.Add (gameObj.name, "{" + gameObj.name + "}");
+					//	} else {
+					//		myDicOut.Add (gameObj.name, gameObj.text);
+					//	}
 
-					}
+					//}
 				}
 			}
 			print (myDicOut.Keys.Count);
@@ -287,7 +287,7 @@ public class SaveInputValueToTextTN2 : MonoBehaviour {
             exportPDFWindow.gameObject.SetActive(false);
         }
 
-        ////for test
+        //for test
         //if (cloneReport != null)
         //{
         //    foreach (Transform child in cloneReport.transform)

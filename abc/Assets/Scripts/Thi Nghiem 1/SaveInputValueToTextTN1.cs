@@ -104,17 +104,17 @@ public class SaveInputValueToTextTN1 : MonoBehaviour {
 
 				if (gameObj.name == myNameObject) {
 
-                    if (!myDicOut.ContainsKey(gameObj.name))
-                    {
-                        if (gameObj.text == "" || gameObj.text == null)
-                        {
-                            myDicOut.Add(gameObj.name, "{" + gameObj.name + "}");
-                        }
-                        else
-                        {
-                            myDicOut.Add(gameObj.name, gameObj.text);
-                        }
-                    }
+                    //if (!myDicOut.ContainsKey(gameObj.name))
+                    //{
+                    //    if (gameObj.text == "" || gameObj.text == null)
+                    //    {
+                    //        myDicOut.Add(gameObj.name, "{" + gameObj.name + "}");
+                    //    }
+                    //    else
+                    //    {
+                    //        myDicOut.Add(gameObj.name, gameObj.text);
+                    //    }
+                    //}
 				}
 			}
 
